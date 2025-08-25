@@ -2,6 +2,6 @@ package javaBasic;
 
 public class HelloJava {
     public static void main (String[] args){
-        System.out.println("Hello, Jems Bond...!");
+        System.out.println("Hello, Jems Bond..!");
     }
 }
