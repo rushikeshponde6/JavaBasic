@@ -9,7 +9,7 @@ public class Variable1 {
         int b=20;
         System.out.println(b);
 
-        char c = 'R';
+        char c = 'P';
         System.out.println(c);
 
         boolean d = true;
